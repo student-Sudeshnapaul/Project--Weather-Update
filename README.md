@@ -41,7 +41,3 @@ Welcome to the Weather Update project! This Python application provides real-tim
 📄 License
 
 This project is licensed under the MIT License — feel free to use and modify it!
-
-
-
-If you want, I can update the README.md file with this plain-text style. Would you like me to do that?
